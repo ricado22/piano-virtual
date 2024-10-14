@@ -1,14 +1,15 @@
-Simulador de Piano Virtual
+# Simulador de Piano Virtual
+
 Este projeto é um Simulador de Piano Virtual simples que permite ao usuário tocar teclas de piano diretamente no navegador usando o teclado ou clicando nas teclas exibidas na tela. O simulador também oferece controle de volume e a opção de mostrar ou ocultar as letras que representam as teclas do teclado.
 
-Funcionalidades
+# Funcionalidades
 Tocar as teclas do piano: As teclas podem ser tocadas clicando diretamente nelas com o mouse ou pressionando as teclas correspondentes no teclado.
 Controle de volume: Um controle deslizante permite ajustar o volume do som.
 Mostrar/Ocultar as letras das teclas: O usuário pode escolher se as letras correspondentes às teclas do piano serão exibidas ou ocultadas.
 Estrutura do Projeto
 O projeto está organizado em três principais componentes: HTML, CSS e JavaScript.
 
-Arquivos
+# Arquivos
 index.html: Estrutura do piano virtual, contendo o layout das teclas, controle de volume e botão de exibição das teclas.
 src/styles/reset.css: Reseta os estilos padrão do navegador para garantir consistência no design.
 src/styles/main.css: Contém os estilos customizados para o piano virtual.
@@ -21,7 +22,7 @@ Pressione uma tecla correspondente no seu teclado (as letras que representam as 
 Controle de volume: O volume do som pode ser ajustado através do controle deslizante localizado no cabeçalho.
 Mostrar/Ocultar letras das teclas: Para ocultar ou exibir as letras das teclas, clique na caixa de seleção (checkbox) no cabeçalho.
 
-Requisitos
+# Requisitos
 Navegador que suporte HTML5, CSS3 e JavaScript moderno.
 Melhorias futuras
 Adicionar mais sons de notas musicais para aumentar o alcance do piano.
